@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1682955720 source:e:\onedrive - american international university-bangladesh\space_shooter\space shooter\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1683004433 source:f:\onedrive - american international university-bangladesh\space_shooter\space shooter\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+
